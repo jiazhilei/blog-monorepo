@@ -1,3 +1,5 @@
+使用pnpm 管理依赖项
+
 安装在根目录的依赖是整个项目都可以直接使用的
 
 > pnpm install
@@ -13,4 +15,4 @@
 > --filter 也可以指定在具体应用下执行脚本命令，比如：
 
 启动 admin应用
-> pnpm --filter admindev
+> pnpm --filter admin dev

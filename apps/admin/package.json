@@ -9,8 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "common-utils": "workspace:*",
+    "common-api": "workspace:*",
     "common-types": "workspace:*",
-    "common-api": "workspace:*"
+    "common-utils": "workspace:*",
+    "md-editor-rt": "^2.8.1"
   }
 }

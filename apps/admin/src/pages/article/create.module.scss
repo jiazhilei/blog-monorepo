@@ -1,0 +1,20 @@
+.container {
+  margin: 12px 12px 0;
+  .articleTitle {
+    display: flex;
+    .publishBtn {
+      padding-left: 12px;
+    }
+  }
+  .tagAndClassify {
+    display: flex;
+    margin: 12px 0;
+    .tagSelect {
+      width: 40%;
+      margin-right: 10px;
+    }
+    .classifySelect {
+      width: 40%;
+    }
+  }
+}
