@@ -1,0 +1,6 @@
+{
+  "name": "common-api",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "module": "./index.ts"
+}
